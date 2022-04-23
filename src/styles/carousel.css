@@ -1,0 +1,14 @@
+.carousel-indicators button{
+    margin: 1vmax 0.5vmax;
+    width: 1vmax;
+    height: 1vmax;
+    border: none;
+    background-color:rgba(255, 255, 255, 0);
+    border: 0.00005px solid rgba(236, 233, 233, 0.8);
+    border-radius: 100px;
+    }
+
+.carousel-indicators .active{
+    background-color:  rgba(255, 255, 255, 1);;
+}
+ 
